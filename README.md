@@ -1,7 +1,8 @@
 # **🚀 Cryptocurrency Price Analysis & Prediction Web App**  
 **An AI-driven financial forecasting tool that analyzes crypto trends and predicts future prices using deep learning.**  
 
-![Cryptocurrency_Price_Photo](https://github.com/user-attachments/assets/d46d6de2-1430-48d5-96a5-dc71e29b4f9a)
+<img src="https://github.com/user-attachments/assets/d46d6de2-1430-48d5-96a5-dc71e29b4f9a" width="850" height="350" alt="Cryptocurrency Price Analysis">
+
 
 
 ## **📌 Overview**  
@@ -81,10 +82,12 @@ python backend.py
 
 ## **📈 Demo & Screenshots**  
 ### **🔹 Web App Interface**  
-![Web App Interface](https://github.com/user-attachments/assets/1768b69b-0938-4979-ab27-d10adaf13e89)
+<img src="https://github.com/user-attachments/assets/1768b69b-0938-4979-ab27-d10adaf13e89" width="950" height="450" alt="Web App Interface">
+
 
 ### **🔹 Predicted vs Actual Prices**  
-![Predicted vs Actual Prices](https://github.com/user-attachments/assets/3454d41f-4332-48cb-9246-9f7230c7b367)
+<img src="https://github.com/user-attachments/assets/3454d41f-4332-48cb-9246-9f7230c7b367" width="950" height="450" alt="Predicted vs Actual Prices">
+
 
 
 
