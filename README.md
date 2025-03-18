@@ -1,7 +1,7 @@
 # **🚀 Cryptocurrency Price Analysis & Prediction Web App**  
 **An AI-driven financial forecasting tool that analyzes crypto trends and predicts future prices using deep learning.**  
 
-![Crypto Forecasting](https://user-images.githubusercontent.com/your-image-link.png)  
+![Crypto Forecasting](https://drive.google.com/file/d/1sie7CicPUsJTTky4GzC6cLRNoAVqljLE/view?usp=drive_link))  
 
 ## **📌 Overview**  
 The **Cryptocurrency Price Analysis & Prediction Web App** is a **data-driven, AI-powered system** designed to analyze historical Bitcoin price trends and forecast future prices using **Long Short-Term Memory (LSTM) neural networks**. The project integrates **real-time market data retrieval, financial analytics, deep learning, and web development**, making it a valuable tool for traders, investors, and financial analysts.  
