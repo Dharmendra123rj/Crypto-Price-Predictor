@@ -80,7 +80,7 @@ python backend.py
 
 ## **📈 Demo & Screenshots**  
 ### **🔹 Web App Interface**  
-![Crypto Web App](https://user-images.githubusercontent.com/[your-image-link](https://drive.google.com/file/d/1hJQYEJIK4G-ijRiCescVLcf84jgZt6i0/view?usp=drive_link).png)  
+![Crypto Web App](https://drive.google.com/file/d/1hJQYEJIK4G-ijRiCescVLcf84jgZt6i0/view?usp=drive_link).png)  
 
 ### **🔹 Predicted vs Actual Prices**  
 ![Prediction Chart](https://user-images.githubusercontent.com/your-image-link.png)  
