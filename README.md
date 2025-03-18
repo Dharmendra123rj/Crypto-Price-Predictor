@@ -113,7 +113,7 @@ Contributions are welcome!
 ## **📬 Contact**  
 📧 **Email:** dharmendraraj776692@gmail.com  
 🔗 **GitHub:** [Dharmendra123rj](https://github.com/Dharmendra123rj)  
-🔗 **LinkedIn:** [your-profile](https://linkedin.com/in/your-profile)  
+🔗 **LinkedIn:** [dharmendra-raj](https://www.linkedin.com/in/dharmendra-raj/))  
 
 ---
 
